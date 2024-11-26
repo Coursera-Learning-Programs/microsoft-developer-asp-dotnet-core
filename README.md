@@ -1,1 +1,0 @@
-# microsoft-developer-asp-dotnet-core
